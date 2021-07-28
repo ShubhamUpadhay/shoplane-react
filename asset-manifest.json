@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shoplane-react/static/css/main.e7101ae0.chunk.css",
+    "main.js": "/shoplane-react/static/js/main.bc0a1a68.chunk.js",
+    "main.js.map": "/shoplane-react/static/js/main.bc0a1a68.chunk.js.map",
+    "runtime-main.js": "/shoplane-react/static/js/runtime-main.211c459d.js",
+    "runtime-main.js.map": "/shoplane-react/static/js/runtime-main.211c459d.js.map",
+    "static/js/2.1f0dc26e.chunk.js": "/shoplane-react/static/js/2.1f0dc26e.chunk.js",
+    "static/js/2.1f0dc26e.chunk.js.map": "/shoplane-react/static/js/2.1f0dc26e.chunk.js.map",
+    "static/js/3.5ebb06b1.chunk.js": "/shoplane-react/static/js/3.5ebb06b1.chunk.js",
+    "static/js/3.5ebb06b1.chunk.js.map": "/shoplane-react/static/js/3.5ebb06b1.chunk.js.map",
+    "index.html": "/shoplane-react/index.html",
+    "static/css/main.e7101ae0.chunk.css.map": "/shoplane-react/static/css/main.e7101ae0.chunk.css.map",
+    "static/js/2.1f0dc26e.chunk.js.LICENSE.txt": "/shoplane-react/static/js/2.1f0dc26e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.211c459d.js",
+    "static/js/2.1f0dc26e.chunk.js",
+    "static/css/main.e7101ae0.chunk.css",
+    "static/js/main.bc0a1a68.chunk.js"
+  ]
+}
